@@ -50,10 +50,4 @@ To get started with the project:
 
 Contributions are welcome! Please feel free to fork this repository and submit pull requests to suggest improvements or additional features.
 
-## Contact
 
-For any queries or suggestions, feel free to reach out:
-
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/your_profile)
-- GitHub: [Your GitHub Profile](https://github.com/your_username)
